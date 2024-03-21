@@ -1,0 +1,24 @@
+# Generic librairies
+numpy
+pandas
+pandas-bokeh
+matplotlib
+# Geo specific librairies
+geopandas
+ipyleaflet
+GDAL>=2.3.0
+raseterio
+OWSLib
+folium
+bokeh
+OWSLib
+folium
+bokeh
+# -> Waterquality scenario
+# https://github.com/cordmaur/WaterQuality/tree/master
+# WaterDetect generates open water cover mask for L2A Sentinel 2 imagery without any a priori knowledge on the scene. It can also be used for Landsat 8 images and for other multispectral clustering/segmentation tasks.
+waterdetect
+pysptools>=0.15.0
+scipy>=1.1.0
+scikit-learn>=0.2
+PyPDF2>=1.26.0
